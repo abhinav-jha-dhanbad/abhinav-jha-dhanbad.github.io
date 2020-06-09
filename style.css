@@ -241,7 +241,6 @@ a {
 
 .add-2 button {
     border: 1px solid #fff;
-    margin:auto;
     text-align:center;
 }
 
@@ -346,6 +345,9 @@ a {
     .presantation p {
         font-size: 20px;
     }
+    .lists {
+        margin-left:5px;
+    }
     .add-p {
         margin: auto;
     }
@@ -395,7 +397,7 @@ a {
         height: fit-content;
     }
     .add-2 button {
-        margin: auto;
+        margin-left: 250px;
     }
     .contacts-all {
         grid-template-columns: none;
