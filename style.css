@@ -241,6 +241,8 @@ a {
 
 .add-2 button {
     border: 1px solid #fff;
+    margin:auto;
+    text-align:center;
 }
 
 .add-2 button:hover {
